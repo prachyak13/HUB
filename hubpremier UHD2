@@ -1,3 +1,4 @@
 #EXTM3U
-#EXTINF:-1,Channel
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=10000000,USER-AGENT="Mozilla/5.0"
 http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=264407&extension=m3u8
